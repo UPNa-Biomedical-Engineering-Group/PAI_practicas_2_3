@@ -1,0 +1,10 @@
+name: PAI
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ultralytics
+  - pytorch
+  - torchvision
+  - ipykernel
