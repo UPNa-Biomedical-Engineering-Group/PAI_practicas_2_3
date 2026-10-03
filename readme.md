@@ -1,8 +1,8 @@
 Practica 2. YOLO
 
-Aparte del contenido del repositorio, para que funcione, hace falta descargar de Mi Aulario:
+Aparte del contenido del repositorio, para que funcione (si no está incluido), hace falta descargar de Mi Aulario:
 
-yolo26n.pt (si no está incluido)
+yolo26n.pt 
 
 requirements.txt
 
