@@ -1,9 +1,14 @@
-Aparte del contenido del repositorio, para que funcione, hace falta descargar:
+Practica 2. YOLO
 
-sam_b.pt
-
-sam2_b.pt
-
-sam2.1_b.pt
+Aparte del contenido del repositorio, para que funcione, hace falta descargar de Mi Aulario:
 
 yolo26n.pt (si no está incluido)
+requirements.txt
+
+----------------------------------------------------------------------------------------------
+Práctica 3. SAM
+
+Aparte del contenido del repositorio, para que funcione, hace falta descargar de Mi Aulario:
+sam_b.pt
+sam2_b.pt
+sam2.1_b.pt
