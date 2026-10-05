@@ -1,0 +1,27 @@
+{
+    "video_path": "images/calle.mp4",
+    "frame_number": 90,
+    "image_path": "images/calle_frame_90.jpg",
+    "annotated_image_path": "images/calle_frame_90_annotated.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "boxes": [
+        {
+            "index": 0,
+            "track_id": null,
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.7734652161598206,
+            "xyxy": [
+                648,
+                357,
+                708,
+                609
+            ],
+            "center": [
+                678,
+                483
+            ]
+        }
+    ]
+}
